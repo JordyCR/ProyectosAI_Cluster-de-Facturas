@@ -1,0 +1,16 @@
+customer_id,segment_simulado,income_monthly_usd,gender,occupation
+C001,LowValue_HighFreq,1044.96,F,Servicios
+C002,LowValue_HighFreq,1372.64,M,Comercio
+C003,LowValue_HighFreq,1132.1,M,Técnico
+C004,HighValue_LowFreq,3297.38,F,Independiente
+C005,HighValue_LowFreq,4034.6,F,Servicios
+C006,AtRisk,2188.75,M,Administrativo
+C007,AtRisk,2550.19,F,Técnico
+C008,AtRisk,2223.25,M,Estudiante
+C009,LowValue_HighFreq,1160.07,F,Técnico
+C010,HighValue_LowFreq,2216.58,F,Estudiante
+C011,HighValue_LowFreq,3810.86,M,Comercio
+C012,AtRisk,1453.9,M,Independiente
+C013,HighValue_LowFreq,3067.8,F,Estudiante
+C014,AtRisk,1120.87,F,Administrativo
+C015,LowValue_HighFreq,872.29,F,Técnico
